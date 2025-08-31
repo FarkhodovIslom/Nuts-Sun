@@ -1,0 +1,59 @@
+### Register
+POST http://localhost:3000/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "Hanzo",
+  "email": "user@shop.local",
+  "password": "secret123"
+}
+
+### Login
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@shop.local",
+  "password": "admin123"
+}
+
+### Me
+GET http://localhost:3000/api/auth/me
+Authorization: Bearer {{token}}
+
+### List products (client)
+GET http://localhost:3000/api/products?page=1&limit=5&type=сухофрукты&search=курага&sort=newest
+
+### Featured
+GET http://localhost:3000/api/products/featured
+
+### Admin list products
+GET http://localhost:3000/api/admin/products?page=1&limit=10
+Authorization: Bearer {{token}}
+
+### Create product (admin)
+POST http://localhost:3000/api/admin/products
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "name": "Финики",
+  "type": "сухофрукты",
+  "price": 28000,
+  "description": "Финики иранские",
+  "weight": 500
+}
+
+### Cart add
+POST http://localhost:3000/api/cart/add
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "productId": "PUT_PRODUCT_ID_HERE",
+  "quantity": 2
+}
+
+### Create order
+POST http://localhost:3000/api/orders
+Authorization: Bearer {{token}}
