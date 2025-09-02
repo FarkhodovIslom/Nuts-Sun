@@ -15,10 +15,12 @@ import Cofee from './components/producktpages/cofee/Cofee';
 import Turk from './components/producktpages/tw-turk/Turk';
 import Cereals from './components/producktpages/cereals/Cereals';
 import Spices from './components/producktpages/spices/Spices';
-// import CartPage from './components/cart/Cart';
+import CartPage from './components/cart/Cart';
+import { CartProvider } from './components/cart/CartContext';
 
 function App() {
   return (
+    <CartProvider>
     <Router>
     <div className='app-container'>
       <section id='navbar'>
@@ -35,11 +37,12 @@ function App() {
           <Route path='/turk' element={<Turk />} />
           <Route path='/cereals' element={<Cereals />} />
           <Route path='/spices' element={<Spices />} />
-          {/* <Route path='/cart' element={<CartPage />} /> */}
+          <Route path='/cart' element={<CartPage />} />
         </Routes>
       </section>
     </div>
     </Router>
+    </CartProvider>
   )
 }
 
