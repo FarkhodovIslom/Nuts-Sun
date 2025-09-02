@@ -48,7 +48,7 @@ export function CartProvider({ children }) {
         .map((item) =>
           item.id === id ? { ...item, quantity: item.quantity - 1 } : item
         )
-        .filter((item) => item.quantity > 0) // agar 0 bo‘lsa o‘chib ketadi
+        .filter((item) => item.quantity > 0)
     );
   };
 
