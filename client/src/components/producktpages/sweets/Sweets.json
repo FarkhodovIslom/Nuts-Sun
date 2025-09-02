@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Мармелад какос",
+    "kg": "100 грн",
+    "img": "./src/assets/img/products/sweets/marmelad-coconut.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Мармелад виноград",
+    "kg": "100 грн",
+    "img": "./src/assets/img/products/sweets/marmelad-grape.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Мармелад МАНГО",
+    "kg": "100 грн",
+    "img": "./src/assets/img/products/sweets/marmelad-mango.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Мармелад персик",
+    "kg": "100 грн",
+    "img": "./src/assets/img/products/sweets/marmelad-peach.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Кунжут",
+    "kg": "140 грн",
+    "img": "./src/assets/img/products/sweets/sesame-koz.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Цукерки абрикосовий",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-apricot.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Цукерки ЧЕРНОСЛИВ",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-blackberry.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Цукерки Облипиха",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-bukthron.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Цукерки смородина",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-currant.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Цукерки фінік",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-date.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Цукерки інжир",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-fig.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Цукерки грейпфрут",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-grapefruit.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Цукерки грильяж",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-grill.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Цукерки грильяж",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-grillage.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Цукерки лимон",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-lemon.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Цукерки манго",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-mango.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Цукерки мохіто",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-mojito.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Цукерки горіх",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-nut.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Цукерки перець",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-pepper.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Цукерки шидні",
+    "kg": "240 грн",
+    "img": "./src/assets/img/products/sweets/sweets-shydney.jpg"
+  }
+]

@@ -1,0 +1,31 @@
+.btn {
+    height: 50px;
+    border: none;
+    color: var(--white-color);
+    font-weight: 600;
+    padding: 10px;
+    background-color: var(--green-color);
+    border-radius: 2px;
+    box-shadow: 0 0 10px var(--black-color);
+    font-size: 18px;
+}
+.btn.liner {
+    background: linear-gradient(190deg, var(--green-color), var(--lime-color));
+}
+.btn.small {
+    font-weight: 400;
+    font-size: 16px;
+    padding: 10px;
+    height: 40px;
+    box-shadow: 0 0 1px var(--black-color);
+}
+@media screen and (max-width: 776px) {
+    .btn {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .btn {
+        font-size: 14px;
+    }
+}

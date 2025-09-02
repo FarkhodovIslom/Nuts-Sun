@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Чечевица",
+    "kg": "150 грн/1кг",
+    "img": "./src/assets/img/products/nuts/lentils.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Кунжут темный",
+    "kg": "270 грн/1кг",
+    "img": "./src/assets/img/products/cereal/kunjut-dark.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Рис",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/cereal/rice-lal.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Рис басмати",
+    "kg": "120 грн/1кг",
+    "img": "./src/assets/img/products/cereal/rice-bas.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Рис звичайний",
+    "kg": "100 грн/1кг",
+    "img": "./src/assets/img/products/cereal/rice-turk.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Кус кус",
+    "kg": "100 грн/1кг",
+    "img": "./src/assets/img/products/cereal/cus.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Маш",
+    "kg": "150 грн/1кг",
+    "img": "./src/assets/img/products/cereal/mash.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Нут узб",
+    "kg": "100 грн/1кг",
+    "img": "./src/assets/img/products/cereal/nut-uzb.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Чия",
+    "kg": "270 грн/1кг",
+    "img": "./src/assets/img/products/cereal/chia.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Мак",
+    "kg": "270 грн/1кг",
+    "img": "./src/assets/img/products/cereal/mak.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Кунжут белый",
+    "kg": "270 грн/1кг",
+    "img": "./src/assets/img/products/cereal/kunjut-white.jpg"
+  }
+]

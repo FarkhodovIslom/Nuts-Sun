@@ -1,0 +1,120 @@
+.produckt-container {
+    padding: 20px;
+}
+.produckt-container h1 {
+    font-size: 30px;
+}
+.produckt-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    padding: 20px;
+}
+.produckt-card {
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 0 10px var(--black-color);
+    padding: 2px;
+}
+.produckt-card:hover {
+    transform: scale(1.02);
+}
+.produckt-img {
+    width: 100%;
+    height: 170px;
+    background-size: cover;
+    background-position: center;
+}
+.produck-bg {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.39);
+    text-align: start;
+    padding: 10px;
+}
+.produckt-card h2 {
+    margin: 10px 0;
+    font-weight: 550;
+}
+.produckt-card p {
+    margin: 0 0 10px 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+.produckt-card p span {
+    font-weight: 500;
+    text-decoration: 1px solid var(--black-color);
+}
+.produckt-like {
+    background-color: var(--green-color);
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.produckt-like.active {
+    background-color: var(--red-color);
+}
+.produckt-add {
+    background-color: var(--green-color);
+    color: var(--white-color);
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+.produckt-add.active {
+    background-color: var(--red-color);
+}
+.produckt-link {
+    text-align: end;
+}
+.produckt-link a {
+    color: var(--red-color);
+    font-size: 22px;
+}
+.produckt-link a i {
+    color: var(--red-color);
+    font-size: 18px;
+}
+/* Responsive */
+@media screen and (max-width: 900px) {
+    .produckt-card {
+        width: 200px;
+    }
+    .produckt-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .produckt-card h2 {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 700px) {
+    .produckt-card {
+        width: 180px;
+        height: 100%;
+    }
+    .produckt-card h2 {
+        font-size: 18px;
+    }
+    .produckt-card p {
+        font-size: 16px;
+    }
+    .produckt-container {
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 430px) {
+    .produckt-card {
+        width: 150px;
+    }
+    .produckt-card h2 {
+        height: 50px;
+    }
+}

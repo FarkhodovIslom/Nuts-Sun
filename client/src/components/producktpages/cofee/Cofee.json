@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Кава crema",
+    "kg": "000 грн",
+    "img": "./src/assets/img/products/coffee/coffee-crema.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Кава Lavaza",
+    "kg": "160 грн",
+    "img": "./src/assets/img/products/coffee/coffee-dek.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Кава CHICCO D'ORO",
+    "kg": "150 грн",
+    "img": "./src/assets/img/products/coffee/coffee-doro.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Кава Crema",
+    "kg": "330 грн/кг",
+    "img": "./src/assets/img/products/coffee/coffee-espresso.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Кава Movenpick",
+    "kg": "310 грн/кг",
+    "img": "./src/assets/img/products/coffee/coffee-himm.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Кава ORO",
+    "kg": "180 грн",
+    "img": "./src/assets/img/products/coffee/coffee-lavazza.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Кава prodomo",
+    "kg": "660 грн/кг",
+    "img": "./src/assets/img/products/coffee/coffee-prodomo.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Кава Lavaza rossa",
+    "kg": "150 грн",
+    "img": "./src/assets/img/products/coffee/coffee-rossa.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Mehmet Efendi",
+    "kg": "80 грн",
+    "img": "./src/assets/img/products/coffee/vibornik.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Mehmet Efendi",
+    "kg": "280 грн",
+    "img": "./src/assets/img/products/coffee/vibornik-2.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Movenpick",
+    "kg": "270 грн",
+    "img": "./src/assets/img/products/coffee/coffee-movenpik.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Ellies Selection",
+    "kg": "270 грн",
+    "img": "./src/assets/img/products/coffee/ellie.jpg"
+  },
+  {
+    "id": 13,
+    "title": "crema e gusto",
+    "kg": "270 грн",
+    "img": "./src/assets/img/products/coffee/lavazza-red.jpg"
+  },
+  {
+    "id": 14,
+    "title": "DALLMAYR Prodomo",
+    "kg": "340 грн",
+    "img": "./src/assets/img/products/coffee/prodomo-gold.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Movenpick",
+    "kg": "310 грн",
+    "img": "./src/assets/img/products/coffee/movenpick-cyan.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Costa Rica",
+    "kg": "410 грн",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8peHf81AumnZGD1IfmtJmPkHO8PW9sZ7IFHApobe2bQBG4UWCbCXyGk5sbbAV-tILEu0&usqp=CAU"
+  }
+]

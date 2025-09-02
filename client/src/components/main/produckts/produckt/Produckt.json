@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "text": "Родзинки золотисті",
+        "kg": "15 гривна",
+        "img": "./src/assets/img/products/dried-fruits/raisin-gold.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 2,
+        "text": "Корич. родзинки",
+        "kg": "12 гривна",
+        "img": "./src/assets/img/products/dried-fruits/raisin-brown.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 3,
+        "text": "Грецький горіх",
+        "kg": "33 гривна",
+        "img": "./src/assets/img/products/nuts/walnut.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 4,
+        "text": "Миндаль сырой",
+        "kg": "40 гривна",
+        "img": "./src/assets/img/products/nuts/almond-raw.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 5,
+        "text": "Кешью сирий",
+        "kg": "50 гривна",
+        "img": "./src/assets/img/products/nuts/cashew.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 6,
+        "text": "Фундук",
+        "kg": "45 гривна",
+        "img": "./src/assets/img/products/nuts/hazelnut.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 7,
+        "text": "Фісташки",
+        "kg": "70 гривна",
+        "img": "./src/assets/img/products/nuts/pistachios.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 8,
+        "text": "Бразильський горіх",
+        "kg": "60 гривна",
+        "img": "./src/assets/img/products/nuts/brazillian-nut.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 9,
+        "text": "Пекан",
+        "kg": "100 гривна",
+        "img": "./src/assets/img/products/nuts/pecan.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 10,
+        "text": "Ананас",
+        "kg": "52 гривна",
+        "img": "./src/assets/img/products/dried-fruits/benifits-pineapple.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 11,
+        "text": "Персик без цукра",
+        "kg": "65 гривна",
+        "img": "./src/assets/img/products/dried-fruits/dried-peach-nosugar.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 12,
+        "text": "Сушений інжир",
+        "kg": "35 гривна",
+        "img": "./src/assets/img/products/dried-fruits/dried-fig.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 13,
+        "text": "Нут",
+        "kg": "100 гривна",
+        "img": "./src/assets/img/products/nuts/nuts-uzb.jpg",
+        "like": "false",
+        "added": "false"
+    },
+    {
+        "id": 14,
+        "text": "Чечевица",
+        "kg": "150 гривна",
+        "img": "./src/assets/img/products/nuts/lentils.jpg",
+        "like": "false",
+        "added": "false"
+    }
+]

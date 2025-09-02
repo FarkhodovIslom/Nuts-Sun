@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../assets/fonts/Poppins-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ubuntu';
+    src: url('../assets/fonts/Ubuntu-Bold.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('../assets/fonts/AveriaSerifLibre-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}

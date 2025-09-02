@@ -1,0 +1,28 @@
+* {
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+    transition: 0.5s;
+    font-family: 'AveriaSerifLibre' sans-serif;
+}
+html, body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+i {
+    color: var(--white-color);
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+@media screen and (max-width: 992px) {
+    .container {
+        width: 100%;
+    }
+}

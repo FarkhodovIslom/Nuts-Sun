@@ -1,34 +1,45 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import React from 'react'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import './App.css'
+import './styles/variables.css';
+import './styles/global.css';
+import './styles/font.css';
+import Navbar from './components/navbar/Navbar'
+import Index from './components/main/index';
+
+import Category from './components/category/Category';
+import Fruits from './components/producktpages/fruitspage/Fruits';
+import Nuts from './components/producktpages/nuts/Nuts';
+import Sweets from './components/producktpages/sweets/Sweets';
+import Cofee from './components/producktpages/cofee/Cofee';
+import Turk from './components/producktpages/tw-turk/Turk';
+import Cereals from './components/producktpages/cereals/Cereals';
+import Spices from './components/producktpages/spices/Spices';
+// import CartPage from './components/cart/Cart';
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <Router>
+    <div className='app-container'>
+      <section id='navbar'>
+        <Navbar />
+      </section>
+      <section id='main'>
+        <Routes>
+          <Route path='/' element={<Index />} />
+          <Route path='/category' element={<Category />} />
+          <Route path='/fruits' element={<Fruits />} />
+          <Route path='/nuts' element={<Nuts />} />
+          <Route path='/sweets' element={<Sweets />} />
+          <Route path='/cofee' element={<Cofee />} />
+          <Route path='/turk' element={<Turk />} />
+          <Route path='/cereals' element={<Cereals />} />
+          <Route path='/spices' element={<Spices />} />
+          {/* <Route path='/cart' element={<CartPage />} /> */}
+        </Routes>
+      </section>
+    </div>
+    </Router>
   )
 }
 

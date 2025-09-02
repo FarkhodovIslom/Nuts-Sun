@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Миндаль сырой",
+    "kg": "40 грн/100гр",
+    "img": "./src/assets/img/products/nuts/almond-raw.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Миндаль узб",
+    "kg": "98 грн/100гр",
+    "img": "./src/assets/img/products/nuts/almond-uzb.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Абрикосових кісточок",
+    "kg": "32 грн/100гр",
+    "img": "./src/assets/img/products/nuts/apricot-kernels.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Бразильський горіх",
+    "kg": "60 грн/100гр",
+    "img": "./src/assets/img/products/nuts/brazillian-nut.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Пекан карамель",
+    "kg": "115 грн/100гр",
+    "img": "./src/assets/img/products/nuts/caramel-pecan.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Кешу солоний",
+    "kg": "65 грн/100гр",
+    "img": "./src/assets/img/products/nuts/cashew-salt.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Кешью сирий",
+    "kg": "50 грн/100гр",
+    "img": "./src/assets/img/products/nuts/cashew.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Кедровый горіх",
+    "kg": "250 грн/100гр",
+    "img": "./src/assets/img/products/nuts/cedar-nut.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Фундук",
+    "kg": "45 грн/100гр",
+    "img": "./src/assets/img/products/nuts/hazelnut.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Нут узб",
+    "kg": "100 грн/100гр",
+    "img": "./src/assets/img/products/nuts/nuts-uzb.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Арахіс сирий",
+    "kg": "11 грн/100гр",
+    "img": "./src/assets/img/products/nuts/peanut-raw.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Арахіс солоний",
+    "kg": "15 грн/100гр",
+    "img": "./src/assets/img/products/nuts/peanut-roasted-salty.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Арахіс смаженний",
+    "kg": "13 грн/100гр",
+    "img": "./src/assets/img/products/nuts/peanut-roasted.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Арахис чишенній сирий",
+    "kg": "12 грн/100гр",
+    "img": "./src/assets/img/products/nuts/peanut-shelled.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Пекан в кожуре",
+    "kg": "70 грн/100гр",
+    "img": "./src/assets/img/products/nuts/pecan-shell.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Пекан",
+    "kg": "100 грн/100гр",
+    "img": "./src/assets/img/products/nuts/pecan.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Фисташка чишенный",
+    "kg": "180 грн/100гр",
+    "img": "./src/assets/img/products/nuts/pistachios-turkish.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Фісташки",
+    "kg": "70 грн/100гр",
+    "img": "./src/assets/img/products/nuts/pistachios.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Гарбузове насіння",
+    "kg": "20 грн/100гр",
+    "img": "./src/assets/img/products/nuts/pumpkin-nuts.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Соняшникове насіння",
+    "kg": "5 грн/100гр",
+    "img": "./src/assets/img/products/nuts/seeds-sunflower.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Грецький горіх",
+    "kg": "33 грн/100гр",
+    "img": "./src/assets/img/products/nuts/walnut.jpg"
+  }
+]

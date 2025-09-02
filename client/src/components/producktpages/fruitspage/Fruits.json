@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Користь Манго",
+    "kg": "55 грн",
+    "img": "./src/assets/img/products/dried-fruits/benifits-mango.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Дыня",
+    "kg": "55 грн",
+    "img": "./src/assets/img/products/dried-fruits/benifits-melon.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Папая без цукара",
+    "kg": "52 грн",
+    "img": "./src/assets/img/products/dried-fruits/benifits-papaya.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Ананас",
+    "kg": "52 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/benifits-pineapple.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Вишня",
+    "kg": "25 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/cherry.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Журавлина",
+    "kg": "35 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/cranberry-black.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Сушені абрикоси",
+    "kg": "48 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-apricot-black.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Курага узб",
+    "kg": "52 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-apricot-uzb.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Курага дикая",
+    "kg": "48 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-apricot-wild.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Курага жанбо",
+    "kg": "50 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-apricot.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Фінік Ізраїльський",
+    "kg": "60 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-date-israel.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Финик тунис",
+    "kg": "14 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-date.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Сушений інжир",
+    "kg": "35 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-fig.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Персик без цукра",
+    "kg": "60 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-peach-nosugar.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Чорнослив",
+    "kg": "21 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/dried-prunes-nosugar.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Имбирь без цукра",
+    "kg": "52 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/ginger-nosugar.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Ягоди годжі",
+    "kg": "60 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/goji-berries.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Родзинки",
+    "kg": "28 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/raisin-black.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Ізюм звичайний",
+    "kg": "12 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/raisin-brown.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Родзинки золотисті",
+    "kg": "15 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/raisin-gold.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Ізюм жовтий",
+    "kg": "25 грн/100гр",
+    "img": "./src/assets/img/products/dried-fruits/raisin-yellow.jpg"
+  }
+]

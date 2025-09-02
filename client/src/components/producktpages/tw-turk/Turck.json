@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Рахат Манго с миндалью",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-mango.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Рахат с Фисташками",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-pistacho.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Рахат с шоколадом",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-chocolate.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Рахат С Миндалью",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-almond.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Рахат С фундуком",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-peanut.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Рахат С Барбарисом",
+    "kg": "600 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/raxat-barb.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Пахлава",
+    "kg": "190 грн/1 упаковку",
+    "img": "./src/assets/img/products/turkish/baklava-grn.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Пахлава",
+    "kg": "140 грн/1 упаковку",
+    "img": "./src/assets/img/products/turkish/baklava.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Халва Sultan",
+    "kg": "140 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/sultan-1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Халва Sultan",
+    "kg": "140 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/sultan-2.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Халва Sultan",
+    "kg": "140 грн/1 кг",
+    "img": "./src/assets/img/products/turkish/sultan-3.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Халва тахини узб",
+    "kg": "50 грн/200гр",
+    "img": "./src/assets/img/products/turkish/halva-uzb.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Фисташка с клубничным жемом",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/pistach-str.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Кешью с ночинкой",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/cashew-jam.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Фундук с ночинкой",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/nut-jam.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Кунжут с фисташками",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/cereal-jam.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Шоколад с ночинкой",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/chocolate-jam.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Роза с фисташками",
+    "kg": "600 грн/1кг",
+    "img": "./src/assets/img/products/turkish/rose-jam.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Чурчхела (Гранат)",
+    "kg": "350 грн/1кг",
+    "img": "./src/assets/img/products/turkish/chr-red.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Чурчхела (Ківи)",
+    "kg": "350 грн/1кг",
+    "img": "./src/assets/img/products/turkish/chr-kivi.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Чурчхела (Віноград)",
+    "kg": "350 грн/1кг",
+    "img": "./src/assets/img/products/turkish/chr-grape.jpg"
+  }
+]
